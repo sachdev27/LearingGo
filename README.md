@@ -2,7 +2,7 @@
 Welcome to my Go programming journey inspired by Hitesh Choudhary's Go Course! 🚀 This repository serves as a documentation hub for my progress, code implementations, and key takeaways as I explore the fascinating world of Go.
 
 ## Course Source
-- [Hitesh Choudhary's Go Course](#[insert-link-here](https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa))
+- [Hitesh Choudhary's Go Course](https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa)
 
 ## Why This Repository?
 
