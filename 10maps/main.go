@@ -21,6 +21,11 @@ func main() {
 	delete(languagues,"GO")
 	fmt.Println(languagues)
 
+	//  loops
+	for key,value := range languagues {
+		fmt.Println("Key :",key)
+		fmt.Println("Value :",value)
+	}
 
 
 }
